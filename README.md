@@ -7,7 +7,20 @@ A 2D fantasy platformer built with Godot and GDScript.
 ## About the Game
 
 Moon & Kitty Adventure is a 2D fantasy platformer where players explore magical levels, collect stars, fight enemies, and reach the exit portal while progressing through the adventure.
+## Screenshots
 
+### Main Menu
+![Moon & Kitty Main Menu](moon_kitty_main_menu.png)
+
+### Gameplay — Level 1
+![Moon & Kitty Level 1](moon_kitty_adventure_level_1.png)
+### Gameplay — Level 1
+![Moon & Kitty Level 1](moon_kitty_adventure_level_1.png)
+### Gameplay — Level 5
+![Moon & Kitty Level 5](Screenshot%202026-10-07%20013201.png)
+
+### Additional Gameplay
+![Moon & Kitty Gameplay 2](Screenshot%202026-10-07%20013132.png)
 ## Features
 
 - Character movement and jumping
