@@ -14,8 +14,7 @@ Moon & Kitty Adventure is a 2D fantasy platformer where players explore magical 
 
 ### Gameplay — Level 1
 ![Moon & Kitty Level 1](moon_kitty_adventure_level_1.png)
-### Gameplay — Level 1
-![Moon & Kitty Level 1](moon_kitty_adventure_level_1.png)
+
 ### Gameplay — Level 5
 ![Moon & Kitty Level 5](Screenshot%202026-10-07%20013201.png)
 
